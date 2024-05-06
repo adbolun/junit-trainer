@@ -1,3 +1,3 @@
 # junit-trainer
 
-Acest proiect are ca scop testarea functionalului deja existent. P-u testare se folosesc bibliotecile JUnit 5, AssertJ si Mockito. In calitate de baza de date de foloseste h2 in-memory database. Testele scrise sunt de doua tipuri: unit si integration. Testele integrationale pot fi gasite in clasa cu prefixul *IT.  
+This project aims to test the already existing functionality. JUnit 5, AssertJ and Mockito libraries are used for testing. As the database it uses h2 in-memory database. The written tests are of two types: unit and integration. Integration tests can be found in the class with the prefix *IT.
